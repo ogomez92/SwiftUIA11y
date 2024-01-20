@@ -8,7 +8,7 @@ Having said this, I will try to include all views in the same file whenever poss
 
 I understand this is not clean code, but for simplicity I am doing it this way.
 
-When coding real applications it is a good practice to try and follow patterns like the [Model view View Model (MVVM)(https://www.hackingwithswift.com/books/ios-swiftui/introducing-mvvm-into-your-swiftui-project) structure.
+When coding real applications it is a good practice to try and follow patterns like the [Model View View Model](https://www.hackingwithswift.com/books/ios-swiftui/introducing-mvvm-into-your-swiftui-project) structure.
 
 ## Structure
 
