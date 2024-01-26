@@ -1,0 +1,5 @@
+crear un repo de views de swiftUI
+navigation stack
+board game
+combined elements
+examples with good/bad
